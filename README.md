@@ -34,7 +34,7 @@ python ScreenshotTool.py
 
 ## 🖼 主界面展示
 
-> 👉 以下是工具主界面截图示意（请自行替换为真实截图）
+> 👉 以下是工具主界面截图示意
 
 ![界面截图](./screenshot.png)
 
@@ -42,8 +42,8 @@ python ScreenshotTool.py
 
 ## 🧑‍💻 开发者
 
-**Author**: [你的GitHub用户名]  
-**项目地址**: [https://github.com/你的项目地址]  
+**Author**: [hnztlyh]  
+**项目地址**: [https://github.com/hnztlyh/screenshot-tool]  
 
 欢迎 star、fork、提 issue 或提交 PR！
 
